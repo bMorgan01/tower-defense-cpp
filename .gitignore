@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Notepad Backups
+*.bak
+
+# Clion
+.idea
+cmake-build-release
+CMakeLists.txt

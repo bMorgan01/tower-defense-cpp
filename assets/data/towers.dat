@@ -1,0 +1,60 @@
+age 1
+name Caveman
+price 50
+type m
+range 2.5
+damage 4
+speed 1
+splash_radius 1
+splash_damage 4
+pierce 3
+stun 0.5
+projectile blunt
+description Not very bright but wields a large club. Attacks and stuns nearby enemies.
+
+age 1
+name Rock Thrower
+price 75
+type r
+range 6
+damage 3
+speed 0.5
+projectile_speed 0.111
+knock_away 0.5
+projectile rock
+description Slings hard stones at enemies, slightly knocking them back towards whatever time period they came from.
+
+age 1
+name Spear Thrower
+price 75
+type r
+range 7
+damage 4
+speed 0.75
+projectile_speed 0.111
+pierce 3
+projectile spear
+description Pointy spears fly far and can pierce through multiple enemies.
+
+age 2
+name Archer
+price 100
+type r
+range 8
+damage 3
+speed 0.5
+projectile_speed 0.167
+projectile arrow
+description A talented hunter, can take aim at enemies from a great distance.
+
+age 2
+name Swordsman
+price 100
+type m
+range 2.5
+damage 4
+speed 1
+sweep_angle 120
+pierce 5
+projectile sword
+description His bronze sword is capable of slicing through many enemies, but he doesn't have to be so stuck-up about it.
